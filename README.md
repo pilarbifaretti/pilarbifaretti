@@ -3,7 +3,7 @@ I'm passionate about uncovering business opportunities and generating innovative
 
 - 📚 Currently studying: Master in Applied Analytics at Columbia University.
 - 💼 Interest: Business opportunities and strategy through data analysis.
-- 🎯 Goal: Showcase my analytical skills and experience while putting various analytical techniques into practice.
+- 🎯 Goal: Showcase my analytical skills and experience while implementing various analytical techniques.
 
   
 
@@ -15,6 +15,14 @@ Repositories:
 - Market Basket Analysis: Explored patterns of item associations within customer transactions.
 - Goal: Produce comprehensive insights into customer behavior, enhance business decision-making, and unlock opportunities for strategic growth in the dynamic realm of online retail.
 - Technologies & Tools: R Studio
+
+2. **Project 2: SQL & Python**
+- Used the FIFA World Cup dataset, made available by Kaggle.
+- PostgreSQL was used to query the data and compelling visualizations using Plotly.
+- Goal: Explore statistics and hidden patterns of the FIFA World Cup. 
+- Technologies & Tools: Python & SQL
+
+
 
 <!---
 pilarbifaretti/pilarbifaretti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
