@@ -1,7 +1,7 @@
 👋 Hello there! I'm MARIA PILAR BIFARETTI, a graduate student pursuing a Master's in Applied Analytics at Columbia University.
 I'm passionate about uncovering business opportunities and generating innovative ideas through strategic data analysis.
 
-- 📚 Currently studying: Master in Applied Analytics at Columbia University.
+- 📚 Education: Master of Science in Applied Analytics at Columbia University.
 - 💼 Interest: Business opportunities and strategy through data analysis.
 - 🎯 Goal: Showcase my analytical skills and experience while implementing various analytical techniques.
 
